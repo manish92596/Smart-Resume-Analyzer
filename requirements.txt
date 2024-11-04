@@ -1,0 +1,10 @@
+streamlit
+spacy
+sentence-transformers
+PyMuPDF
+rapidfuzz
+fpdf
+python-dateutil
+pandas
+
+# python -m spacy download en_core_web_sm
