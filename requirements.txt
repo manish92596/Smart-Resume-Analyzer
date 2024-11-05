@@ -8,3 +8,6 @@ python-dateutil
 pandas
 
 # python -m spacy download en_core_web_sm
+# # # # import nltk
+# # # # nltk.download('punkt')
+# # # # nltk.download('stopwords')
